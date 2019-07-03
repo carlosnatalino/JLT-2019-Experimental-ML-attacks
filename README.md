@@ -9,7 +9,9 @@ Paper available at <a href="https://ieeexplore.ieee.org/document/8738965" target
 
 ## What is in this repo?
 We are releasing the following:
-* Implementation of the machine learning models presented in the paper
+* Implementation of the plots used in the paper (https://github.com/carlosnatalino/JLT-2019-Experimental-ML-attacks/blob/master/JLT-2019-plots.ipynb)
+* Implementation of the scalability test presented in the paper (https://github.com/carlosnatalino/JLT-2019-Experimental-ML-attacks/blob/master/JLT-2019-scalability.ipynb)
+* Implementation of the machine learning models presented in the paper (https://github.com/carlosnatalino/JLT-2019-Experimental-ML-attacks/blob/master/JLT-2019-Experimental-ML-attacks.ipynb)
 * Analysis of the dataset *(dataset is not available due to confidentiality restrictions)*
 * Trained models (inside `models` folder)
 * Generated plots (inside `figures` folder)
