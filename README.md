@@ -5,8 +5,6 @@ Carlos Natalino, Marco Schiano, Andrea Di Giglio, Lena Wosinska and Marija Furde
 
 Paper available at <a href="https://ieeexplore.ieee.org/document/8738965" target="_blank">IEEE Xplore</a>.
 
-## The code will be shared here once the paper is published online.
-
 ## What is in this repo?
 We are releasing the following:
 * Implementation of the plots used in the paper (https://github.com/carlosnatalino/JLT-2019-Experimental-ML-attacks/blob/master/JLT-2019-plots.ipynb)
